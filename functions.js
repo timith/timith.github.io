@@ -3,6 +3,7 @@ function password(){
 	var pdfpass = 3.1415;
 	var gamepass = 2.7182;
 	var musicpass = "music";
+	
 	if (pword==pdfpass) {
 		document.getElementById("link1").innerHTML = "PDFS";
 	}
