@@ -9,7 +9,6 @@ function password(){
 	if(pword == gamepass){
 		document.getElementById("link2").innerHTML = "Games";
 	}
-
 	if(pword == musicpass){
 		document.getElementById("link3").innerHTML = "Music";
 	}
